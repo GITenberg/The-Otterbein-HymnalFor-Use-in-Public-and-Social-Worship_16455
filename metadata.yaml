@@ -1,0 +1,33 @@
+_repo: The-Otterbein-HymnalFor-Use-in-Public-and-Social-Worship_16455
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lorenz, Edmund S. (Edmund Simon)
+    aliases:
+    - Lorenz, Edmund Simon
+    - Lorenz, E. S. (Edmund Simon)
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '6724'
+    url: http://www.gutenberg.org/2009/agents/6724
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of the United Brethren in Christ (New constitution) -- Hymns'
+- !lcc 'M'
+- !lcsh 'Hymns, English'
+title: 'The Otterbein Hymnal
+
+  For Use in Public and Social Worship'
+url: http://www.gutenberg.org/ebooks/16455
