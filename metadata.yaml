@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '6724'
     url: http://www.gutenberg.org/2009/agents/6724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16455#The-Otterbein-HymnalFor-Use-in-Public-and-Social-Worship
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-08-06'
 gutenberg_type: Text
